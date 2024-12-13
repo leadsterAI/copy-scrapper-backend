@@ -1,0 +1,5 @@
+Website,Matched,Result
+"https://www.amazon.com/","FALSE","MATCH"
+"https://www.google.com/","","MATCH"
+"https://www.samsung.com/in/","","MATCH"
+"https://www.instagram.com/","","ERROR"
